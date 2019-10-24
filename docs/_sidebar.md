@@ -4,5 +4,6 @@
   - [使用脚本自动化 w3af](Automation-using-scripts.md)
   - [w3af 的认证机制](Authentication.md)
   - [常见使用示例](Common-use-cases.md)
+  - [高级使用示例](Advanced-use-cases.md)
 - 规则分析
   - [xxe](rule-analysis-1-xxe.md)
