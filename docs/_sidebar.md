@@ -6,5 +6,6 @@
   - [常见使用示例](Common-use-cases.md)
   - [高级使用示例](Advanced-use-cases.md)
   - [Docker 中的 w3af](w3af-inside-docker.md)
+  - [扫描 REST API](Scan-REST-APIs.md)
 - 规则分析
   - [xxe](rule-analysis-1-xxe.md)
