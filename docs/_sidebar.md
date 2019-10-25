@@ -7,5 +7,7 @@
   - [高级使用示例](Advanced-use-cases.md)
   - [Docker 中的 w3af](w3af-inside-docker.md)
   - [扫描 REST API](Scan-REST-APIs.md)
+  - [利用 Web 应用漏洞](Exploiting-Web-application-vulnerabilities.md)
+  - [高级漏洞利用 - Web 应用攻击载荷](advanced-exploitation.md)
 - 规则分析
   - [xxe](rule-analysis-1-xxe.md)
