@@ -12,5 +12,6 @@
   - [Bug 报告机制](report-a-bug.md)
   - [贡献](contribute.md)
   - [REST API 简介](rest-api.md)
+  - [高级使用技巧](advanced-tips-tricks.md)
 - 规则分析
   - [xxe](rule-analysis-1-xxe.md)
