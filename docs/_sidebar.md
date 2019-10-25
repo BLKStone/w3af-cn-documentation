@@ -11,5 +11,6 @@
   - [高级漏洞利用 - Web 应用攻击载荷](advanced-exploitation.md)
   - [Bug 报告机制](report-a-bug.md)
   - [贡献](contribute.md)
+  - [REST API 简介](rest-api.md)
 - 规则分析
   - [xxe](rule-analysis-1-xxe.md)
