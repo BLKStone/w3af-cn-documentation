@@ -16,4 +16,5 @@
 - 规则分析
   - [自定使用案例](w3af-usage-demo.md)
   - [sqli](analysis/audit-sqli-rule.md)
+  - [blind-sqli](analysis/audit-blind-sqli-rule.md)
   - [xxe](analysis/audit-xxe-rule.md)
