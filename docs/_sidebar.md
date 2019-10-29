@@ -17,4 +17,5 @@
   - [自定使用案例](w3af-usage-demo.md)
   - [sqli](analysis/audit-sqli-rule.md)
   - [blind-sqli](analysis/audit-blind-sqli-rule.md)
+  - [csrf](analysis/audit-csrf-rule.md)
   - [xxe](analysis/audit-xxe-rule.md)
