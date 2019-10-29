@@ -19,4 +19,5 @@
   - [blind-sqli](analysis/audit-blind-sqli-rule.md)
   - [csrf](analysis/audit-csrf-rule.md)
   - [lfi](analysis/audit-lfi-rule.md)
+  - [rfi](analysis/audit-rfi-rule.md)
   - [xxe](analysis/audit-xxe-rule.md)

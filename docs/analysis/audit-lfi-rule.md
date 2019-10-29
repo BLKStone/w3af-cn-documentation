@@ -137,3 +137,21 @@ FILE_PATTERNS = (
         "[fonts]",
 )
 ```
+
+如果上述规则未检测出漏洞， `w3af` 还会尝试去寻找一些可疑的报错信息，以辅助人工渗透。检测的具体报错信息如下
+
+```python
+FILE_OPEN_ERRORS = [# Java
+                    'java.io.FileNotFoundException:',
+                    'java.lang.Exception:',
+                    'java.lang.IllegalArgumentException:',
+                    'java.net.MalformedURLException:',
+
+                    # PHP
+                    'fread\\(\\):',
+                    'for inclusion \'\\(include_path=',
+                    'Failed opening required',
+                    '<b>Warning</b>:  file\\(',
+                    '<b>Warning</b>:  file_get_contents\\(',
+                    'open_basedir restriction in effect']
+```
