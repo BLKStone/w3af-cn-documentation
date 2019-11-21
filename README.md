@@ -82,3 +82,10 @@ WIVET - Web Input Vector Extractor Teaser
 
 The Web Application Vulnerability Scanner Evaluation Project
 [https://github.com/sectooladdict/wavsep](https://github.com/sectooladdict/wavsep)
+
+OWASP Benchmark
+https://www.owasp.org/index.php/Benchmark
+https://github.com/OWASP/Benchmark
+
+HackThisSite
+https://www.hackthissite.org/
